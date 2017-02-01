@@ -3,5 +3,5 @@
 
 Modified slightly to work on Octave. 
 
-Link from OpenSLAM: https:openslam.org/ekfmonoslam.html
-Link to author's page: webdiis.unizar.es/~jcivera/code/1p-ransac-ekf-monoslam.html
+[Link](https:openslam.org/ekfmonoslam.html) from OpenSLAM.
+Link to [author's page](webdiis.unizar.es/~jcivera/code/1p-ransac-ekf-monoslam.html)
